@@ -1,0 +1,9 @@
+This is a sample text.
+It contains several lines.
+Each line has a different number of words and characters.
+
+The first line has 6 words and 26 characters.
+The second line has 5 words and 30 characters.
+The third line has 9 words and 53 characters.
+
+Let's count the total number of words, lines, and characters in this text.

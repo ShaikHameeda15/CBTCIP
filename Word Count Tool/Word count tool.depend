@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709811451 source:c:\users\hi\desktop\c practice\word count tool\main.c
+	<stdio.h>
+	<stdlib.h>
+
